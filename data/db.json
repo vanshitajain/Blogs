@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "Most experts agree that the first blog was Links.net, created in 1994 by then-student Justin Hall as a place to publish his writing. The site consisted entirely of brief posts, each one sharing a link and some of his thoughts on the content within. ",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "opening party",
+      "body": "Most experts agree that the first blog was Links.net, created in 1994 by then-student Justin Hall as a place to publish his writing. The site consisted entirely of brief posts, each one sharing a link and some of his thoughts on the content within. ",
+      "author": "jain",
+      "id": 2
+    },
+    {
+      "title": "hello world",
+      "body": "lorem epsum....",
+      "author": "Vanshita",
+      "id": 3
+    },
+    {
+      "title": "hello ninjas",
+      "body": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockupsncdsLNBJBO.",
+      "author": "Vanshita",
+      "id": 5
+    }
+  ]
+}
